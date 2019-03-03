@@ -14,7 +14,7 @@ config config --local status.showUntrackedFiles no
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ```
-## install
+### gist
 ```
-curl -Lks https://gist.github.com/670ce853ba81084e4a6a833dd3a48302.git | /bin/bash
+curl -Lks http://bit.do/dotfile-init | /bin/bash
 ```
