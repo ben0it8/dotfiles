@@ -18,5 +18,5 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 ### gist
 ```
-curl -Lks http://bit.do/dotfile-init | /bin/bash
+curl -Lks http://bit.do/init-dotfiles | /bin/bash
 ```
