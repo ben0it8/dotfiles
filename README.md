@@ -1,6 +1,12 @@
-# dotfiles
+# my dotfiles
+based on https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/ 
+additions: oh-my-zsh
 
-Based on https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+### dependencies
+* curl
+* git
+
+### init
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
